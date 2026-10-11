@@ -69,9 +69,10 @@ Visit the deployed website here:
 GITARI'S PHOTO GALLERY — Photography Website
 
 Design
+
 The website was planned before development using a visual mockup. The design focuses on simplicity, readability, and presenting photographs as the main visual feature.
 
-The design file is included in the repository at design/website-mockup.png for review.
+The design file is included in the repository at Gitari's Photography Gallery Homepage.png for review.
 
 Learning Objectives
 
