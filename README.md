@@ -10,14 +10,14 @@ The website features a welcoming hero section, a gallery of photographs, a short
 This project was developed as part of an independent project to practice and demonstrate fundamental HTML and CSS skills.
 
 Features
-A homepage with an introduction to the photography website.
-A gallery showcasing favorite photographs.
-An About section describing the purpose and inspiration behind the website.
-A list of photography essentials.
-Custom CSS styling with a consistent color palette and typography.
-Hover effects and smooth scrolling.
-A responsive layout for desktop, tablet, and mobile screens.
-Semantic HTML elements and accessible image descriptions.
+.A homepage with an introduction to the photography website.
+.A gallery showcasing favorite photographs.
+.An About section describing the purpose and inspiration behind the website.
+.A list of photography essentials.
+.Custom CSS styling with a consistent color palette and typography.
+.Hover effects and smooth scrolling.
+.A responsive layout for desktop, tablet, and mobile screens.
+.Semantic HTML elements and accessible image descriptions.
 
 Technologies Used
 HTML5 — structures the website content.
