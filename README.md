@@ -3,6 +3,7 @@ Author
 Edwin Karani
 
 Description
+
 GITARI'S PHOTO GALLERY is a simple, visually appealing photography website created to showcase a collection of favorite photographs and celebrate the beauty of everyday moments.
 
 The website features a welcoming hero section, a gallery of photographs, a short biography describing the purpose of the website, and a footer. It is designed with a warm, minimalist aesthetic, using neutral colors, elegant typography, and responsive layouts.
@@ -10,6 +11,7 @@ The website features a welcoming hero section, a gallery of photographs, a short
 This project was developed as part of an independent project to practice and demonstrate fundamental HTML and CSS skills.
 
 Features
+
 .A homepage with an introduction to the photography website.
 .A gallery showcasing favorite photographs.
 .An About section describing the purpose and inspiration behind the website.
@@ -20,6 +22,7 @@ Features
 .Semantic HTML elements and accessible image descriptions.
 
 Technologies Used
+
 HTML5 — structures the website content.
 CSS3 — styles the page, controls layout, and adds visual effects.
 Git and GitHub — version control and project hosting.
@@ -27,18 +30,22 @@ GitHub Pages — deployment of the live website.
 Pinterest — source of sample photography used in the gallery.
 
 Project Structure
+
 photography-website/
+
 ├── index.html
 ├── style.css
 ├── README.md
 └── design/
     └── website-mockup.png
+    
 index.html — contains the website structure and content.
 style.css — contains the custom styles and responsive design rules.
 README.md — documents the project and explains how to run it.
 design/website-mockup.png — contains the original website design for review.
 
 Project Setup Instructions
+
 Follow these steps to download and run the project locally.
 
 1. Clone the repository
