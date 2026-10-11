@@ -66,7 +66,7 @@ No additional dependencies or package installations are required.
 Live Website
 Visit the deployed website here:
 
-GITARI'S PHOTO GALLERY — Photography Website
+https://Edwin001-crypto.github.io/photoweb/ — Photography Website
 
 Design
 
